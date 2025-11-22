@@ -2,7 +2,7 @@
 List of countries, states/provinces and cities from Steam Community profiles.
 
 > [!WARNING]  
-> This repository is outdated. The scraper script (scraper.js) no longer works. To get an updated list of countries from Steam, use these endpoints:
+> The data in this repository is up-to-date with Steam (last checked 2025-11-22). However, this repository will no longer be maintained. The scraper script (scraper.js) no longer works. To ensure that you have an up-to-date list of locations from Steam, use these endpoints:
 > - https://steamcommunity.com/actions/QueryLocations
 > - https://steamcommunity.com/actions/QueryLocations/US
 > - https://steamcommunity.com/actions/QueryLocations/US/AK
