@@ -1,6 +1,12 @@
 # Steam Countries
 List of countries, states/provinces and cities from Steam Community profiles.
 
+> [!WARNING]  
+> This repository is outdated. The scraper script (scraper.js) no longer works. To get an updated list of countries from Steam, use these endpoints:
+> - https://steamcommunity.com/actions/QueryLocations
+> - https://steamcommunity.com/actions/QueryLocations/US
+> - https://steamcommunity.com/actions/QueryLocations/US/AK
+
 ## Integration
 This repository's location data is meant to be used together with the [Steam Web API]. See the documentation for [GetPlayerSummaries], it returns `loccountrycode`, `locstatecode` and `loccityid` for any public Steam Community player profile using a 64 bit Steam ID. This repository helps you find **names** for countries, states/provinces and cities.
 
